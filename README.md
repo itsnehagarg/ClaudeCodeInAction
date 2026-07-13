@@ -17,6 +17,10 @@ You can use Claude Code for FREE using ollama or any other LLM.
 
  irm https://ollama.com/install.ps1 | iex
 
+
+ <img width="671" height="158" alt="image" src="https://github.com/user-attachments/assets/c82de34d-bc60-45f0-a00e-46809d02bdbd" />
+
+
  
 
  
