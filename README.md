@@ -24,4 +24,9 @@ After ollama is downloaded:
  
 <img width="671" height="235" alt="image" src="https://github.com/user-attachments/assets/22bc8d89-a4ee-47c5-875a-393e2e1c2546" />
 
+Select Claude Code from the option and then select gemma4
+
+<img width="802" height="308" alt="image" src="https://github.com/user-attachments/assets/82a9a11a-f951-45b1-8075-e59f340d9bf7" />
+
+
  
