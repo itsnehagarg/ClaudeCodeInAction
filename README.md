@@ -20,7 +20,8 @@ You can use Claude Code for FREE using ollama or any other LLM.
 
  <img width="671" height="158" alt="image" src="https://github.com/user-attachments/assets/c82de34d-bc60-45f0-a00e-46809d02bdbd" />
 
-
+After ollama is downloaded:
  
+<img width="671" height="235" alt="image" src="https://github.com/user-attachments/assets/22bc8d89-a4ee-47c5-875a-393e2e1c2546" />
 
  
