@@ -11,4 +11,12 @@ curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del in
 
 <img width="841" height="345" alt="image" src="https://github.com/user-attachments/assets/534c8dbd-3c95-4dc4-93e5-5ad9c81dc356" />
 
-2. 
+You can use Claude Code for FREE using ollama or any other LLM.
+
+2. Download ollama use the below cmd on Powershell in Windows if using Win OS:
+
+ irm https://ollama.com/install.ps1 | iex
+
+ 
+
+ 
