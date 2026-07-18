@@ -29,4 +29,23 @@ Select Claude Code from the option and then select gemma4
 <img width="802" height="308" alt="image" src="https://github.com/user-attachments/assets/82a9a11a-f951-45b1-8075-e59f340d9bf7" />
 
 
+3. Permission mode:
+
+- All the settings for permisions are saved in a folder called .claude
+- Inside this folder there is a file called settings.local.json - this is for local settings of Claude code
+- If the file name is settings.json then it is for global
+
+  <img width="473" height="182" alt="image" src="https://github.com/user-attachments/assets/ffd938bd-2f74-4681-9916-f704fafc225e" />
+
+
+4. 
+
+
+
+
+
+
+
+
+Reference Claude Code In One Shot | Build Production Ready Apps | 2026 by Shubham Londhe
  
