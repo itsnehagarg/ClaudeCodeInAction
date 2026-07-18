@@ -31,9 +31,12 @@ Select Claude Code from the option and then select gemma4
 
 3. Permission mode:
 
+<img width="606" height="244" alt="image" src="https://github.com/user-attachments/assets/e5e50ddf-e7a1-419d-8a91-c75637a32b4f" />
+
 - All the settings for permisions are saved in a folder called .claude
 - Inside this folder there is a file called settings.local.json - this is for local settings of Claude code
 - If the file name is settings.json then it is for global
+- 
 
   <img width="473" height="182" alt="image" src="https://github.com/user-attachments/assets/ffd938bd-2f74-4681-9916-f704fafc225e" />
 
